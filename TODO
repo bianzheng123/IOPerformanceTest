@@ -1,0 +1,8 @@
+generate the data with high dimensionality
+just stimulate the vector set search
+
+the default chunk size should be 25000 items, and each item should contains 100 vector
+
+split the file into the whole file or split into several chunk, then check the performance
+
+test in multi-thread and single thread
